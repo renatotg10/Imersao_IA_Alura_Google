@@ -31,7 +31,3 @@ Contribuições são bem-vindas! Para propor uma melhoria ou correção, sinta-s
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
 
 **Autor: Renato Teixeira Gomes**
-
----
-
-Este README fornece uma visão geral do sistema do ChatBot, incluindo instruções de uso, funcionalidades, notas importantes, informações sobre a autoria e a licença do projeto.
